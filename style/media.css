@@ -274,185 +274,40 @@
     height: 1.5px;
     max-width: 374px;
   }
+  .it {
+    display: flex;
+    flex-direction: column;
+  }
+  .it1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .it3 h1 {
+    margin-top: 40px;
+  }
+
+  .it2 {
+    display: none;
+  }
+  .it5 {
+    display: none;
+  }
+  .instagram {
+    display: flex;
+    flex-direction: row;
+  }
+  .instagram img {
+    padding: 0 20px 0 0;
+  }
+
+  .it4 h1 {
+    margin-top: 40px;
+  }
+  .tochka p {
+    margin-top: 0px;
+  }
 }
 @media (max-width: 320px) {
-  .vefa1 p {
-    color: #fff;
-    text-align: center;
-    font-family: Montserrat;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-  }
-  .vefa1 h1 {
-    color: #fff;
-    font-family: Montserrat;
-    font-size: 26px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 35px; /* 134.615% */
-    text-align: center;
-  }
-
-  .vefa {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-  .vefa2 p {
-    color: #b5b5b5;
-    font-family: Montserrat;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-  }
-  .vefa2 input {
-    width: 374px;
-    height: 57px;
-    flex-shrink: 0;
-  }
-  .vefa2 button {
-    display: inline-flex;
-    height: 49px;
-    padding: 17px 55px 17px 54px;
-    justify-content: center;
-    align-items: center;
-    flex-shrink: 0;
-    border-radius: 5px;
-    background: #043c71;
-    backdrop-filter: blur(7.5px);
-    color: #fff;
-    text-align: center;
-    font-family: Montserrat;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    text-align: center;
-  }
-  .dollarer {
-    display: flex;
-    justify-content: center;
-  }
-  .koker {
-    text-align: center;
-  }
-  .dollar {
-    width: 374px;
-    height: 372px;
-    flex-shrink: 0;
-    border-radius: 10px;
-    background: #fff;
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .hero1 h1 {
-    font-size: 32px;
-  }
-  .hero1 p {
-    font-size: 15px;
-  }
-  h1 h1 {
-    font-size: 26px;
-  }
-  .dollar1 h1 {
-    color: #000;
-    font-family: Montserrat;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 32px; /* 133.333% */
-    max-width: 283px;
-  }
-  .dollar1 p {
-    color: #000;
-    font-family: Montserrat;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 25px; /* 138.889% */
-    max-width: 250px;
-  }
-  .button button {
-    width: 213px;
-    height: 54.674px;
-    flex-shrink: 0;
-    border-radius: 4.491px;
-    background: #034078;
-    color: #fff;
-    font-family: Montserrat;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-  }
-  .box1 h1 {
-    max-width: 250px;
-    color: #000;
-    font-family: Montserrat;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
-    margin-left: 15px;
-  }
-  .box1 {
-    width: 300px;
-    height: 330px;
-    flex-shrink: 0;
-
-    border-radius: 17px 17px 17.245px 17.245px;
-    background: #fff;
-  }
-  .grup h2 {
-    color: #044176;
-    font-family: Montserrat;
-    font-size: 12px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-  }
-  .grup {
-    padding: 0 45px 0 15px;
-  }
-  .dive {
-    display: flex;
-    justify-content: center;
-  }
-  .baluta {
-    display: flex;
-    flex-direction: column;
-  }
-  .baluta1 {
-    display: flex;
-  }
-  .baluta1 h1 {
-    color: #fff;
-    font-family: Montserrat;
-    font-size: 28px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 25px; /* 89.286% */
-  }
-  .baluta1 img {
-    max-width: 59px;
-    height: 59px;
-    flex-shrink: 0;
-  }
-  .baluta2 h2 {
-    color: #fff;
-    font-family: Montserrat;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: normal;
-    max-width: 292px;
-  }
-  .ggg {
-    width: 374.012px;
-    height: 1.5px;
-    max-width: 374px;
-  }
 }

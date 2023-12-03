@@ -356,3 +356,54 @@ body {
   font-weight: 500;
   line-height: normal;
 }
+.it h1 {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.it p {
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.it {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 110px;
+}
+.it2 p {
+  margin-top: 20px;
+}
+
+.instagram img {
+  padding: 0px 10px 10px 0;
+}
+
+.instagram {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+.tochka {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+}
+.it1 {
+  display: flex;
+  flex-direction: column;
+}
+.mapin {
+  display: flex;
+  margin-top: 20px;
+  padding: 0 0 10px 0;
+}
+.none {
+  margin-top: 30px;
+}
