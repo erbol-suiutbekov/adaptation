@@ -188,14 +188,14 @@
   .dollar1 p {
     color: #000;
     font-family: Montserrat;
-    font-size: 18px;
+    font-size: 17px;
     font-style: normal;
     font-weight: 500;
     line-height: 25px; /* 138.889% */
     max-width: 250px;
   }
   .button button {
-    width: 213px;
+    width: 214px;
     height: 54.674px;
     flex-shrink: 0;
     border-radius: 4.491px;
